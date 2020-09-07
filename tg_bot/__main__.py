@@ -18,7 +18,7 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Hi {}, My Name is {}! if you have any Questions about how to use me please give me /help... 
+Hi {}, My Name is {}!
 
 Im a Maintained by [ALPHA](tg://user?id={}).
 
